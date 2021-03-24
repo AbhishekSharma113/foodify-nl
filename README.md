@@ -8,7 +8,7 @@ version 8.1.1
 
 ## Author
 
-* [Abhishek Sharma](AbhishekSharma@gmail.com)
+* [Abhishek Sharma](abhishek12948@gmail.com)
 
 ```
 NOTE: Access the Admin Portal of the website using provided login credentials.
