@@ -100,7 +100,7 @@ UserService.prototype.createUser = async function createUser(data) {
         src="https://i.ibb.co/JjSjPRh/image.png"
         alt="Foodify Logo" />
       <h1 style="padding: 50px 0 15px; font-family: Arial, sans-serif; font-size: 36px; color: #343B4E;">Welcome to
-        Foodbank</h1>
+        Foodify</h1>
       <p style="padding-bottom: 15px; font-family: Arial, sans-serif; font-size: 18px; color: #52556B; line-height: 1.5">
         Thank you for signing up to be a member of the Foodify.</p>
       <p style="padding-bottom: 15px; font-family: Arial, sans-serif; font-size: 18px; color: #52556B; line-height: 1.5">
